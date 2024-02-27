@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334539038705",
+    "project_id": "login-firebase-bloc-oddler17",
+    "storage_bucket": "login-firebase-bloc-oddler17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334539038705:android:88c4974f979c26a6c26e50",
+        "android_client_info": {
+          "package_name": "login.firebase.bloc.oddler17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Vcr7Q71YfH2eYI7hiKK-42XT9PIFINM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
